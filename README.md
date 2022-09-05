@@ -10,3 +10,7 @@ $cd sms-bomber
 $pip install -r requirements.txt
 
 $python sms_bomber.ir.py
+
+This SMS Bomber has 30 APIs
+
+Enter the number without 0
