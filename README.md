@@ -3,7 +3,7 @@ This SMS Bomber works only in Iran
 
 Install Script
 
-$git clone https://github.com/shaean56/sms-bomber
+$git clone https://github.com/SHAYAN2024/sms-bomber
 
 $cd sms-bomber
 
